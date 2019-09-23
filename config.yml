@@ -1,0 +1,11 @@
+settings:
+  update_interval: 300
+  market_pairs:
+    - ETH/BTC
+    - NEO/BTC
+    - NEO/ETH
+
+exchanges:
+  binance:
+    required:
+      enabled: true
